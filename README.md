@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Engineering Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ceydaateşoğlu">
+  <a href="[https://www.linkedin.com/in/ceydaateşoğlu](https://www.linkedin.com/in/ceyda-ateşoğlu-b295252a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ceydaatesoglu6@gmail.com">
