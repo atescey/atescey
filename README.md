@@ -8,11 +8,6 @@
   <a href="mailto:ceydaatesoglu6@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-  <a href="mailto:ceydaatesoglu6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ### 🌟 About Me & Goals
 
