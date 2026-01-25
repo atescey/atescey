@@ -13,8 +13,6 @@
 
 - 🎓 I am a **2nd year Computer Engineering** student.
 - 🔐 Building a foundation in **Cybersecurity**, currently working on network security.
-- 🇹🇷 Participant in the **Siber Vatan** program! Receiving specialized training in cybersecurity here.
-- 🕹️ Actively solving CTFs on **Hackviser** and working to improve my cyber defense skills.
 - 👁️ Interested in **Computer Vision**; developing object detection projects using **YOLOv8** and **Roboflow**.
 - 🎨 Besides coding, I enjoy creating designs with **Canva** and learning **3D Modeling** with **Autodesk Fusion**.
 -  🌐 Deepening my knowledge in **HTML & CSS**; preparing to build and launch my own personal portfolio website soon!
