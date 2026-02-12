@@ -12,10 +12,10 @@
 ### 🌟 About Me & Goals
 
 - 🎓 I am a **2nd year Computer Engineering** student.
-- 🔐 Building a foundation in **Cybersecurity**, currently working on network security.
-- 👁️ Interested in **Computer Vision**; developing object detection projects using **YOLOv8** and **Roboflow**.
+- 🔐 Cybersecurity: Developing a strong foundation in network security and pentesting.
+- 👁️ Computer Vision: Developing object detection projects using YOLOv8 and Roboflow, with experience in UAV teams.
+- 🌐 Web Development: Crafting responsive and interactive websites using HTML, CSS, and JavaScript.
 - 🎨 Besides coding, I enjoy creating designs with **Canva** and learning **3D Modeling** with **Autodesk Fusion**.
--  🌐 Deepening my knowledge in **HTML & CSS**; preparing to build and launch my own personal portfolio website soon!
 - 💡 Focused on constantly learning new technologies and self-improvement.
 
 ---
