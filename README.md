@@ -9,14 +9,7 @@
     <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-### 🌟 About Me & Goals
-
-- 🎓 I am a **2nd year Computer Engineering** student.
-- 🔐 Cybersecurity: Developing a strong foundation in network security and pentesting.
-- 👁️ Computer Vision: Developing object detection projects using YOLOv8 and Roboflow, with experience in UAV teams.
-- 🌐 Web Development: Crafting responsive and interactive websites using HTML, CSS, and JavaScript.
-- 🎨 Besides coding, I enjoy creating designs with **Canva** and learning **3D Modeling** with **Autodesk Fusion**.
-- 💡 Focused on constantly learning new technologies and self-improvement.
+I am a 2nd-year Computer Engineering student. I work on web development projects using HTML, CSS, and JavaScript, and have developed object detection projects using YOLOv8 and Roboflow, gaining experience with UAV teams in the process. I also have an interest in cybersecurity and am building knowledge in basic network security and penetration testing. Additionally, I enjoy design and 3D modeling, and I am continuously working on improving my skills.
 
 ---
 
@@ -30,6 +23,7 @@
 <img src="https://img.shields.io/badge/C-C71585?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-FF69B4?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-FF1493?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=flat-square&logo=javascript&logoColor=white" />
 
 **🔐 Cybersecurity & Education**<br>
 <img src="https://img.shields.io/badge/Siber_Vatan-FF1493?style=flat-square&logo=turkey&logoColor=white" />
